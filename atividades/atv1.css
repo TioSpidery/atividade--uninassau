@@ -1,0 +1,26 @@
+body {
+  font-family: Arial, sans-serif;
+  max-width: 500px;
+  margin: 60px auto;
+  padding: 0 20px;
+  color: #222;
+  line-height: 1.6;
+}
+
+b {
+  color: rgb(0, 21, 255);
+}
+
+i {
+  color: #555;
+}
+
+hr {
+  margin: 24px 0;
+  border: none;
+  border-top: 1px solid #ccc;
+}
+
+a {
+  color: rgb(0, 21, 255);
+}
